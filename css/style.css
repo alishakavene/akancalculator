@@ -43,3 +43,15 @@ h1{
   font-size: 15px;
   box-shadow: 3px 3px #00000;
 }
+#result{
+  text-align: center;
+}
+.content{
+    transform: translate(-40% -40%);
+  margin-left: 9%;
+  margin-right: 9%;
+  margin-top: 10px;
+  margin-bottom: auto;
+  box-shadow: 3px 3px;
+  border-radius: 0.5%;
+}
