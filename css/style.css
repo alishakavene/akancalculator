@@ -1,0 +1,16 @@
+body{
+  font-family: inherit;
+  background-image: url('https://lh3.googleusercontent.com/b9GXN3frum-snUXX5wh9TOsmhesOUrMkZZHyori_lfAjgfKg70Wcx5EasMCxC3sYkSwV_Ulc19iLsP4yCrLchoho=s750');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-size: 23px;
+}
+h1{
+  font-size: 36px;
+  padding-top: 30px;
+}
+.container{
+  width: 100%;
+  margin: auto;
+}
