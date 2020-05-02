@@ -26,3 +26,9 @@ h1{
   height: 20px;
   box-shadow: 3px 3px #00000;
 }
+#day-input{
+  border-radius: 5px;
+  width: 60px;
+  height: 20px;
+  box-shadow: 3px 3px #00000;
+}
