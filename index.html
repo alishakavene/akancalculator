@@ -9,3 +9,19 @@
   <body>
     <div class="content">
       <div class="container">
+<h2>Akan Calculator</h2>
+        <p> Hello,This is a web application that takes your birthday details and calculates the day of the week you were born and depending on your gender, outputs your Akan name.Derived from Ghanian culture.In Ghana children born are beston their first names which corresponds to the day of the week.Which is really cool.</p>
+        <p>TO know your Akan name fill in the form below and click to generate name button.Make sure you have fun!</p>
+        <form class="myform" onsubmit="return getAkanName()">
+          <label for="year-of-birth">
+            year:
+          <input id="year-input" type="number" name="year-of-birth" placeholder="YYYY" value=""required>
+          </label>
+          <label for="month-of-birth">
+            Month:
+            <input id="month-input" type="number" name="month-of-birth" placeholder="MM" value="" required>
+            </label>
+            <label for="day-of-birth">
+              Day:
+              <input id="day-input" type="number" name="day-of-birth" placeholder="DD" value="" required>
+          </label>
