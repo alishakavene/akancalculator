@@ -1,14 +1,14 @@
-##Author
+## Author
 
 Alisha Kavene
 
 ![alt text] file:///home/home/Desktop/akancalculator/images/unnamed.jpg
 
-##Version
+## Version
 
 Akan name generator V1
 
-##Features
+## Features
 
 Here are the features in summary:
 
@@ -26,18 +26,12 @@ Step 3 : Open the index.html file to view the application on your preferred web 
 Known Bugs
 Formula provided to determine day of birth shows inconsistency in its results (Bug fixed)
 
-##Technologies Used
-
-HTML
-CSS
-Javascript
-Support and contact details
-Technologies Used
+## Technologies Used
 HTML
 CSS
 Javascript
 
-##Support and contact details
+## Support and contact details
 
 You can provide feedback or raise any issues/ bugs through the following means:ttps://github.com/alishakavene/akancalculator
 
@@ -45,7 +39,7 @@ Slack me @ alishakavene
 Github Pages link
 You can view the live application by following this link
 
-##License
+## License
 
 MIT License
 The MIT License
@@ -56,5 +50,5 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-##Copyright (c) 2019 Alisha Kavene
+## Copyright (c) 2019 Alisha Kavene
 
