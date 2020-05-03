@@ -12,24 +12,24 @@ Akan name generator V1.1
 
 Here are the features in summary:
 
-Input of year of birth.
-Input month of birth.
-Input day of birth.
-Select Gender.
-Output Akan name.
-Installation and Set-up
-To view the app, open the Github Pages link provided below on the README. Here is a run through of how to set up the application
+* Input of year of birth.
+* Input month of birth.
+* Input day of birth.
+* Select Gender.
+* Output Akan name.
+* Installation and Set-up
+* To view the app, open the Github Pages link provided below on the README. Here is a run through of how to set up the application
 
-Step 1 : Clone this repository using git clone https://github.com/alishakavene/akancalculator, or downloading a ZIP file of the code.
-Step 2 : The repository, if downloaded as a .zip file will need to be extracted o your preferred location and opened
-Step 3 : Open the index.html file to view the application on your preferred web browser
+* Step 1 : Clone this repository using git clone https://github.com/alishakavene/akancalculator, or downloading a ZIP file of the code.
+* Step 2 : The repository, if downloaded as a .zip file will need to be extracted o your preferred location and opened
+* Step 3 : Open the index.html file to view the application on your preferred web browser
 Known Bugs
 Formula provided to determine day of birth shows inconsistency in its results (Bug fixed)
 
 ## Technologies Used
-HTML
-CSS
-Javascript
+* HTML
+* CSS
+* Javascript
 
 ## Support and contact details
 
@@ -42,7 +42,6 @@ You can view the live application by following this link
 ## License
 
 MIT License
-The MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sub license, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
