@@ -2,7 +2,7 @@
 
 Alisha Kavene
 
-![alt text](images/https://lh3.googleusercontent.com/b9GXN3frum-snUXX5wh9TOsmhesOUrMkZZHyori_lfAjgfKg70Wcx5EasMCxC3sYkSwV_Ulc19iLsP4yCrLchoho=s750)
+![alt text](https://lh3.googleusercontent.com/b9GXN3frum-snUXX5wh9TOsmhesOUrMkZZHyori_lfAjgfKg70Wcx5EasMCxC3sYkSwV_Ulc19iLsP4yCrLchoho=s750)
 
 ## Version
 
