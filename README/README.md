@@ -2,11 +2,11 @@
 
 Alisha Kavene
 
-![alt text] file:///home/home/Desktop/akancalculator/images/unnamed.jpg
+![alt text](images/result.png)
 
 ## Version
 
-Akan name generator V1
+Akan name generator V1.1
 
 ## Features
 
