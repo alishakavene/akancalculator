@@ -1,4 +1,4 @@
-[create an anchor] Author
+[create an anchor](#anchors-in-markdown) Author
 Alisha Kavene
 
 ###Version
