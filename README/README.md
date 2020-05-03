@@ -3,6 +3,7 @@
 Alisha Kavene
 
 ![alt text](file:///home/home/Pictures/Screenshot%20from%202020-05-03%2011-33-33.png)
+![alt text](images/result.jpg)
 
 ## Version
 
