@@ -8,65 +8,79 @@ body{
 }
 h1{
   font-size: 36px;
-  padding-top: 30px;
+  padding-top: 20px;
 }
+
 .container{
-  width: 100%;
+  width: 80%;
   margin: auto;
 }
+
 #year-input{
   border-radius: 5px;
   width: 60px;
   height: 20px;
-  box-shadow: 3px 3px #00000;
+  box-shadow: 2px 2px black;
 }
+
 #month-input{
   border-radius: 5px;
   width: 60px;
   height: 20px;
-  box-shadow: 3px 3px #00000;
+  box-shadow: 2px 2px black;
 }
+
 #day-input{
   border-radius: 5px;
   width: 60px;
   height: 20px;
-  box-shadow: 3px 3px #00000;
+  box-shadow: 2px 2px black;
 }
+
 #get-name{
   border-radius: 5px;
-  color: #00000;
-  background-color:red;
+  color: black;
+  background-color: red;
   text-align: center;
-  border: solid 1px;
+  border: solid 2px silver;
   width: 108px;
   height: 32px;
-  font-size: 15px;
-  box-shadow: 3px 3px #00000;
+  font-size: 13px;
+  box-shadow: 2px 2px black;
 }
+
 #result{
   text-align: center;
 }
+
 .content{
-    transform: translate(-40% -40%);
-  margin-left: 9%;
-  margin-right: 9%;
+  background-color: rgba(206, 17, 38, 0.60);
+  margin-left: 20%;
+  margin-right: 20%;
   margin-top: 10px;
   margin-bottom: auto;
-  box-shadow: 3px 3px;
+  padding-bottom: 20px;
+  box-shadow: 2px 2px black;
   border-radius: 0.5%;
 }
+
 .research{
   text-decoration: underline;
   color: white;
 }
+
 .clear{
   border-radius: 5px;
-  text-align: left;
-  border: solid 1px;
+  color: black;
+  background-color: red;
+  text-align: center;
+  border: solid 1px #black;
   width: 108px;
   height: 32px;
   font-size: 13px;
+  box-shadow: 2px 2px black;
 }
+
 a:hover{
-  color: black;
+  color: skyblue;
 }
