@@ -30,3 +30,10 @@ CSS
 Javascript
 #####Support and contact details
 You can provide feedback or raise any issues/ bugs through the following means:ttps://github.com/alishakavene/akancalculator
+Slack me @ alishakavene
+Github Pages link
+You can view the live application by following this link
+
+#####License
+MIT License
+The MIT License
