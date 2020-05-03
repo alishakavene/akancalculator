@@ -159,3 +159,4 @@ function getAkanName () {
       alert("You entered invalid month or day");
     }
   }
+}     
