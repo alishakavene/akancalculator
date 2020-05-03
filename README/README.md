@@ -2,7 +2,7 @@
 
 Alisha Kavene
 
-![alt text](image/file:///home/home/Pictures/Screenshot%20from%202020-05-03%2011-33-33.png)
+![alt text](file:///home/home/Desktop/akancalculator/Screenshot%20from%202020-05-03%2011-33-33.png)
 
 ## Version
 
