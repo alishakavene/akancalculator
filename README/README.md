@@ -1,8 +1,7 @@
 ## Author
 
 Alisha Kavene
-
-![alt text](file:///home/home/Desktop/akancalculator/index.html?)
+![alt text](file:///home/home/Downloads/screenshot.png)
 
 ## Version
 
