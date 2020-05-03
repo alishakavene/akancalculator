@@ -2,7 +2,7 @@
 
 Alisha Kavene
 
-![alt text](file:///home/home/Desktop/akancalculator/Screenshot%20from%202020-05-03%2011-33-33.png)
+![alt text](file:///home/home/Desktop/akancalculator/index.html?)
 
 ## Version
 
@@ -48,6 +48,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## Github pages link
+
+You can view the live application through this link file:///home/home/Desktop/akancalculator/index.html?
 
 ## Copyright 
 
