@@ -3,6 +3,8 @@
 Alisha Kavene
 
 ![alt text](https://lh3.googleusercontent.com/b9GXN3frum-snUXX5wh9TOsmhesOUrMkZZHyori_lfAjgfKg70Wcx5EasMCxC3sYkSwV_Ulc19iLsP4yCrLchoho=s750)
+## Description 
+This is a generator that takes in your birthday calculates the day of the week you were born and gives you your Akan name. Akan names are names given to children in Ghana according the day they were born. Example If you are Female born on Saturday you would be called Ama.
 
 ## Version
 
