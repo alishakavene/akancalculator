@@ -35,11 +35,9 @@ Formula provided to determine day of birth shows inconsistency in its results (B
 
 ## Support and contact details
 
-You can provide feedback or raise any issues/ bugs through the following means:ttps://github.com/alishakavene/akancalculator
+You can provide feedback or raise any issues/ bugs through the following means https://github.com/alishakavene/akancalculator
 
-Slack me @ alishakavene
-Github Pages link
-You can view the live application by following this link
+* Slack me @ alishakavene
 
 ## License
 
