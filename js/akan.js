@@ -153,10 +153,10 @@ function getAkanName () {
         return false;
         break;
       default:
-        alert("mmh no Akan name for you");
+      alert("mmh no Akan name for you");
       }
     } else{
       alert("You entered invalid month or day");
     }
   }
-}     
+
